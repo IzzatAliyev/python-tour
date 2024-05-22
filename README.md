@@ -20,7 +20,7 @@ Creating a Python project with a package manager like `pip` and a virtual enviro
 
    ```bash
    python3 -m venv venv
-   source venv/bin/activate  # On Windows, use "venv\Scripts\activate"
+   source ./.venv/bin/activate  # On Windows, use "venv\Scripts\activate"
    ```
 
 3. **Install a Package Manager**:
